@@ -1,3 +1,6 @@
+import sys
+sys.path.append(r'C:\Users\ghwjd\osslab11-hojung025')
+
 import geo.utils as utils
 
 # calculate the length of hypotenuse (c) when a = 3 and b = 4
